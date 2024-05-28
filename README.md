@@ -1,4 +1,6 @@
-# Data Science Projects
+# Hello, I'm Sophie
+## Introduction
+👋 Hi there! I'm Sophie, a dedicated data scientist and enthusiast with a passion for working with big data. Leveraging my technical skills in Python, R, SQL, and machine learning, I'm committed to informing data-driven business decisions that drive improvements in organizational health and performance.
 
 ## Objective
 This portfolio showcases my data science projects, demonstrating my expertise in data analysis, machine learning, and data visualization. Each project includes detailed explanations, code snippets, and insights derived from the data. The objective is to illustrate my ability to solve real-world problems using data-driven approaches.
