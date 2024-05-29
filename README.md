@@ -7,7 +7,7 @@ This portfolio showcases my data science projects, demonstrating my expertise in
 
 ## Project Overview
 
-### 1. Credit Card Default Prediction Model
+### [1. Credit Card Default Prediction Model](https://github.com/sobinahn1/DS_Portfolio/tree/main/Credit_Card_Default_Prediction)
 - **Description:** Identify the risk associated with clients defaulting on credit card payments due, enabling more informed decision-making and effective risk management.
 - **Techniques:** Machine Learning (classification models), Parameter Tuning, Feature Engineering
 - **Tools:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
