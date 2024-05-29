@@ -7,19 +7,19 @@ This portfolio showcases my data science projects, demonstrating my expertise in
 
 ## Project Overview
 
-### [1. Credit Card Default Prediction Model](https://github.com/sobinahn1/DS_Portfolio/tree/main/Credit_Card_Default_Prediction)
+### 1. [Credit Card Default Prediction Model](https://github.com/sobinahn1/DS_Portfolio/tree/main/Credit_Card_Default_Prediction)
 - **Description:** Identify the risk associated with clients defaulting on credit card payments due, enabling more informed decision-making and effective risk management.
 - **Techniques:** Machine Learning (classification models), Parameter Tuning, Feature Engineering
 - **Tools:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
 - **Highlights:** Increase the model performances by 20% on average, concluding that all models are performing better than a random guess.
   
-### 2. Flight Delay Prediction Model
+### 2. [Flight Delay Prediction Model](https://github.com/sobinahn1/DS_Portfolio/tree/main/Flight_Delay_Prediction)
 - **Description:** Developed regression models to identify key factors associated with flight delays and predict the estimated delay time. The goal was to inform customers as soon as possible, enhancing customer satisfaction and reducing airline costs.
 - **Techniques:** Machine Learning (regression models), Parameter Tuning, Feature Engineering
 - **Tools:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
 - **Highlights:** Demonstrated proficiency in various regression modeling techniques (Linear, Ridge, Lasso) to accurately predict flight delays.
 
-### 3. CFPB Complaints Dashboard
+### 3. [CFPB Complaints Dashboard](https://public.tableau.com/views/cfpbcomplaintsdashboard/complaintsdashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 - **Description:** Create a user interactive dashboard that captures a compilation of the complaints data summary where users can quickly identify and capture insights.
 - **Techniques:**
   - **Visual Analytics:** Utilized various visualization techniques such as heat maps, bar charts, line graphs, and scatter plots to represent data effectively.
