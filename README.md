@@ -2,6 +2,8 @@
 ## Introduction
 👋 Hi there! I'm Sophie, a dedicated data scientist and enthusiast with a passion for working with big data. Leveraging my technical skills in Python, R, SQL, and machine learning, I'm committed to informing data-driven business decisions that drive improvements in organizational health and performance.
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/%EB%8B%A4%EC%9B%90-%EC%84%9C-77846b295/](https://www.linkedin.com/in/sobinahn/))
+
 ## Objective
 This portfolio showcases my data science projects, demonstrating my expertise in data analysis, machine learning, and data visualization. Each project includes detailed explanations, code snippets, and insights derived from the data. The objective is to illustrate my ability to solve real-world problems using data-driven approaches.
 
